@@ -1,0 +1,13 @@
+.playwright-mcp/
+
+__pycache__
+*.log
+
+node_modules
+
+# Cloned repos (not submodules)
+/**/my-ecommerce/
+
+
+.venv
+.env
